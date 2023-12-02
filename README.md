@@ -267,4 +267,7 @@ That's it!
 
 ### This is the way that we have to add Kubernetes cluster as a runner to Gitlab and deploy app on pods using Gitlab CICD
 
+You can refer below link too
+
+    https://www.youtube.com/watch?v=fwtxi_BRmt0&t=626s
 
